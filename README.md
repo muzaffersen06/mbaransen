@@ -3,6 +3,7 @@
 
 ![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaransen&theme=dark&show_icons=true)
 
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent
 
 
 
