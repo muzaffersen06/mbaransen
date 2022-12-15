@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muzaffer Baran</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaransen&theme=dark&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaransen&layout=compact)](https://github.com/mbaransen/github-readme-stats)
