@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Muzaffer Baran</h1>
 
 
-![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaransen&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaransen&layout=demo)](https://github.com/mbaransen/github-readme-stats)
-
-
-
-
-
 
 
 
