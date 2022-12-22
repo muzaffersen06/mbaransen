@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muzaffer Baran</h1>
 
-! [Şakalar Kartı] ( https://readme-jokes.vercel.app/api)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaransen&layout=Demo)](https://github.com/mbaransen/github-readme-stats)
