@@ -3,7 +3,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbaransen&layout=Demo)](https://github.com/mbaransen/github-readme-stats)
 
 
 
